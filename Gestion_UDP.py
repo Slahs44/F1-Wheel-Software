@@ -349,7 +349,7 @@ class F1_data_UDP():
 
     
 F1 = F1_data_UDP()
-adresse = r'Z:\Repertoire Enfant\recherches Louis-Victor\2nde\Volant thrusmater solid works\Code\Python\Record_data.csv'
+adresse = r'Record_data.csv'
 wr.ajout_ligne(F1.title, adresse)
 
 
